@@ -80,5 +80,5 @@ This project simulates a simplified pricing model for natural gas, inspired by r
 
 ```bash
 git clone https://github.com/Dpkvas/Pricing-model.git
-cd natural-gas-pricing-model
+cd Pricing-model
 pip install -r requirements.txt
