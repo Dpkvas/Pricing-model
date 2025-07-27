@@ -69,10 +69,9 @@ This project simulates a simplified pricing model for natural gas, inspired by r
 ## 🛠️ Technologies Used
 
 - Python 3.x
-- Pandas
-- NumPy
-- Matplotlib / Seaborn
-- Scikit-learn (if used for modeling)
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Scikit-learn
 - Jupyter Notebook
 
 ---
