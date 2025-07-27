@@ -61,7 +61,7 @@ This project simulates a simplified pricing model for natural gas, inspired by r
 
 ---
 
-## 📈 Sample Output
+## 📈 Forecast Output
 
 <img width="581" height="287" alt="image" src="https://github.com/user-attachments/assets/4c39273c-f376-4546-b8f2-4ac9e17fd48e" />
 
