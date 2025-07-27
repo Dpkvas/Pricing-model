@@ -58,6 +58,7 @@ This project simulates a simplified pricing model for natural gas, inspired by r
 - Outputs a function that returns the expected loss given borrower features.
 
 📌 *Notebook*: `task_3_credit_risk.ipynb`
+
 ---
 
 ## 📈 Sample Output
